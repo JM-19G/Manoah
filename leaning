@@ -1,0 +1,29 @@
+
+ <form>
+    
+       <label for="School">School</label>
+       <input type="text" name="name" placeholder="Input your school name"
+      required/>
+   <br />
+   <br />
+       <label for="email">Email</label>
+       <input type="text" name="Email" placeholder=""required/>
+   <br />
+   <br />
+       <label for="password">password</label>
+       <input type="password" required/>
+   <br />
+   <br />
+       <textarea name="text" placeholder="Input your Comment"></textarea>
+       <input type="submit"/>
+     
+   <br />
+   <br />
+       <input type="checkbox"/>    
+       <label for="optional">Do you want the test to hold?</label>
+       na
+ </form>
+       <h3>Youtube image</h3>
+     <img
+       src="https://th.bing.com/th/id/OIP.dCwxH-_SGxKkbSgtZHr3-AHaFp?w=234&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" 
+       alt="Youtube">

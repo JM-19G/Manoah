@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+
+}
+img { 
+    position: relative;
+    left: 50%;
+    width: 100px;
+    border-radius: 80px;  
+    transform: translateX(-50%);  
+}
+ div { 
+    
+    background: rgb(44, 44, 44);
+    width: 300px;
+    margin: auto;
+    margin-top: 10%;
+    padding: 30px;
+    border-radius: 10px;
+    top: 40px;
+    height: auto
+}   
+.name,h3,p,li {
+    text-align: center;
+    line-height: 25px;
+}
+
+.name {
+    color: white;
+}
+h3 {
+    color: yellow;
+    margin-top: -15px;
+    font-size: 15px;
+}
+p {
+    color: white;
+    line-height: 20px;
+}
+.item {
+    list-style-type: none;
+    color: white;
+    background-color: rgb(70, 70, 70);
+    border-radius: 10PX;
+    margin: 10PX 0PX;
+    padding: 10px 0px;
+}
+.items:hover {
+    color: rgb(206, 255, 12);
+    cursor: pointer;
+}
+

@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+.box {
+    background-color:  hsl(47, 88%, 63%);
+    margin-top: 25px;
+    margin-right: 76%;
+    margin-bottom: -5px;
+    padding: 6px;
+    border-radius: 5px;
+    
+}
+.cl {
+   color:  hsl(0, 0%, 42%);
+}
+div {
+    background-color: hsl(0, 0%, 100%) ;
+    width: 350px;
+    border-radius: 20px;
+    margin: auto;
+    height: auto;
+    padding: 20px;
+    padding-right: 5px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    box-shadow: rgb(50, 49, 49) 10px 10px 0px;
+
+}
+.img-top {
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+    left: 57%;
+    
+    width: 330px;
+    transform: translateX(-60%);
+    
+    
+}
+.image {
+    position: absolute;
+    width: 1.7rem;    
+}
+
+h4 {
+padding-inline-start: 35px;
+}
+
+p {line-height: 25px;
+    word-spacing: 7px;
+}
